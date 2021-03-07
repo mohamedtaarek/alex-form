@@ -26,12 +26,12 @@
   margin: 5%;
 }
 .myCard-1 {
-  background-image: url("https://storage.googleapis.com/alexform/alexform-1.jpg");
+  background-image: url("https://storage.googleapis.com/alexform/DSC09994.jpg");
   background-size: cover;
   border: 1px solid #707070;
 }
 .myCard-2 {
-  background-image: url("https://storage.googleapis.com/alexform/alexform-2.jpg");
+  background-image: url("https://storage.googleapis.com/alexform/Form.JPG");
   background-size: cover;
   border: 1px solid #707070;
 }
@@ -41,7 +41,7 @@
   border: 1px solid #707070;
 }
 .myCard-4 {
-  background-image: url("https://storage.googleapis.com/alexform/alexform-4.jpg");
+  background-image: url("https://storage.googleapis.com/alexform/PANEL%20(1).jpg");
   background-size: cover;
   border: 1px solid #707070;
 }
@@ -49,7 +49,6 @@
 .myCard-5 {
   background-image: url("https://storage.googleapis.com/alexform/alexform-5.jpg");
   background-size: cover;
-  border: 1px solid #707070;
 }
 .centerText {
   text-align: center;
